@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="128" viewBox="0 0 256 128">
+  <defs>
+    <clipPath id="clip-guide-patterns">
+      <rect width="256" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="guide-patterns" clip-path="url(#clip-guide-patterns)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="96" height="56" transform="translate(136 72)" fill="#00a388"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="96" height="56" transform="translate(24)" fill="#00a388"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="96" height="56" transform="translate(136)" fill="#79bd8f"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="96" height="56" transform="translate(24 72)" fill="#79bd8f"/>
+  </g>
+</svg>

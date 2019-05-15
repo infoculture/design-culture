@@ -1,0 +1,136 @@
+---
+layout: default
+
+home_bg: true
+---
+
+<div class="container py-5">
+  <div class="row">
+    <div class="col-lg-6 py-4">
+      <h1 class="mb-5">{{site.title}}</h1>
+      <h2 class="light">{{site.description}}</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container py-5">
+  <div class="row mb-4">
+    <div class="col-12">
+      <h3>Принципы</h3>
+      <!-- <h3><a href="">Принципы</a></h3> -->
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 col-lg-3">
+      <h4>Данные вперёд</h4>
+      <p>Разработка наших сервисов начинается с&nbsp;получения и&nbsp;анализа данных.</p>
+    </div>
+    <div class="col-md-4 col-lg-3 offset-lg-1">
+      <h4>Простота</h4>
+      <p>Наши продукты в&nbsp;основном предназначены для широкой аудитории, поэтому мы&nbsp;стараемся делать сервисы доступными и&nbsp;понятными.</p>
+    </div>
+    <div class="col-md-4 col-lg-3 offset-lg-1">
+      <h4>Масштабируемость</h4>
+      <p>Мы не изобретаем велосипед заново, а переиспользуем проверенные практики и&nbsp;компоненты в&nbsp;новых продуктах.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="container-fluid py-5 brand">
+  <div class="row py-5">
+    <div class="container">
+      <div class="row mb-4">
+        <div class="col">
+          <h3>Визуальный стиль</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="grid">
+          	{% assign collections = site.collections | sort: 'position'%}
+          	{% for collection in collections %}
+          	{% if collection.label != 'posts' and collection.label != 'resources'  %}
+          	<a href="{{site.baseurl}}{{collection.label}}" class="cell guide guide-{{collection.label}}{% if collection.disabled %} inactive{% endif %}"><h4>{{collection.title}}</h4></a>
+          	{% endif %}
+          	{% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="bg-light">
+  <div class="container py-5">
+    <div class="row py-5">
+      <div class="col-md-6">
+        <h3 class="mb-4">Компоненты <small class="text-muted">Скоро</small></h3>
+        <!-- <h3 class="mb-4"><a href="">Компоненты</a></h3> -->
+        <h4 class="light">Библиотека стилей и&nbsp;Vue-компонентов с&nbsp;помощью которых можно быстро собрать интерфейс для&nbsp;наших сервисов</h4>
+      </div>
+      <div class="col-md-3 offset-md-2 text-center">
+        <img src="/img/components.svg" alt="components">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <div class="container py-5">
+    <div class="row py-5">
+      <div class="col-md-6">
+        <!-- <h3 class="mb-4">Ресурсы <small class="text-muted">Скоро</small></h3> -->
+        <h3 class="mb-4"><a href="{{site.baseurl}}/resources">Ресурсы</a></h3>
+        <h4 class="light">Готовые шаблоны макетов и&nbsp;медиафайлы для&nbsp;наших проектов</h4>
+        <p>{{site.baseurl}}</p>
+      </div>
+      <div class="col-md-3 offset-md-2 text-center">
+        <img src="/img/resources.svg" alt="resources">
+      </div>
+    </div>
+  </div>
+
+
+
+<!-- <div class="container py-5">
+
+  {% if site.sections.size > 0 %}
+  <div class="row">
+
+    {% assign sortedsections = site.sections | sort: 'title' %}
+    <div class="col-md-7 col-lg-8 col-lg-9 py-4">
+      {% for section in sortedsections %}
+      <div class="section mb-5">
+        {% if section.anchor %}
+        <h2 id="{{section.anchor}}"><a href="#{{section.anchor}}" class="section-anchor-link">#</a>{{section.title}}</h2>
+        {% else %}
+        <h2>{{section.title}}</h2>
+        {% endif %}
+        {{ section.content | markdownify }}
+      </div>
+      {% endfor %}
+    </div>
+    
+    <div class="d-none d-md-block col-md-4 col-lg-3 col-xl-2 col-md-offset-1">
+      <ul class="section-nav sticky-top list-unstyled py-4">
+        {% for section in sortedsections %}
+        <li class="border-left pl-3 py-1">{% if section.anchor %}<a href="#{{section.anchor}}" class="border-0">{{section.title}}</a>{% else %}{{section.title}}{% endif %}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+  {% else %}
+  <div class="row">
+    <div class="col">
+      Здесь пока пусто
+    </div>
+  </div>
+
+  {% endif %}
+
+</div> -->

@@ -1,0 +1,589 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="199" viewBox="0 0 370 199">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="560" height="560" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="560" height="561" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-guideline">
+      <rect width="370" height="199"/>
+    </clipPath>
+  </defs>
+  <g id="guideline" clip-path="url(#clip-guideline)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(0 0.5)" clip-path="url(#clip-path)">
+      <g transform="translate(0 -0.5)">
+        <line id="Line_9" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(9 -0.5)">
+        <line id="Line_9-2" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(18 -0.5)">
+        <line id="Line_9-3" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(27 -0.5)">
+        <line id="Line_9-4" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(36 -0.5)">
+        <line id="Line_9-5" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(45 -0.5)">
+        <line id="Line_9-6" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(54 -0.5)">
+        <line id="Line_9-7" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(63 -0.5)">
+        <line id="Line_9-8" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(72 -0.5)">
+        <line id="Line_9-9" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(81 -0.5)">
+        <line id="Line_9-10" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(90 -0.5)">
+        <line id="Line_9-11" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(99 -0.5)">
+        <line id="Line_9-12" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(108 -0.5)">
+        <line id="Line_9-13" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(117 -0.5)">
+        <line id="Line_9-14" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(126 -0.5)">
+        <line id="Line_9-15" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(135 -0.5)">
+        <line id="Line_9-16" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(144 -0.5)">
+        <line id="Line_9-17" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(153 -0.5)">
+        <line id="Line_9-18" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(162 -0.5)">
+        <line id="Line_9-19" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(171 -0.5)">
+        <line id="Line_9-20" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(180 -0.5)">
+        <line id="Line_9-21" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(189 -0.5)">
+        <line id="Line_9-22" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(198 -0.5)">
+        <line id="Line_9-23" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(207 -0.5)">
+        <line id="Line_9-24" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(216 -0.5)">
+        <line id="Line_9-25" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(225 -0.5)">
+        <line id="Line_9-26" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(234 -0.5)">
+        <line id="Line_9-27" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(243 -0.5)">
+        <line id="Line_9-28" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(252 -0.5)">
+        <line id="Line_9-29" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(261 -0.5)">
+        <line id="Line_9-30" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(270 -0.5)">
+        <line id="Line_9-31" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(279 -0.5)">
+        <line id="Line_9-32" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(288 -0.5)">
+        <line id="Line_9-33" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(297 -0.5)">
+        <line id="Line_9-34" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(306 -0.5)">
+        <line id="Line_9-35" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(315 -0.5)">
+        <line id="Line_9-36" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(324 -0.5)">
+        <line id="Line_9-37" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(333 -0.5)">
+        <line id="Line_9-38" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(342 -0.5)">
+        <line id="Line_9-39" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(351 -0.5)">
+        <line id="Line_9-40" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(360 -0.5)">
+        <line id="Line_9-41" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(369 -0.5)">
+        <line id="Line_9-42" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(378 -0.5)">
+        <line id="Line_9-43" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(387 -0.5)">
+        <line id="Line_9-44" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(396 -0.5)">
+        <line id="Line_9-45" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(405 -0.5)">
+        <line id="Line_9-46" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(414 -0.5)">
+        <line id="Line_9-47" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(423 -0.5)">
+        <line id="Line_9-48" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(432 -0.5)">
+        <line id="Line_9-49" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(441 -0.5)">
+        <line id="Line_9-50" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(450 -0.5)">
+        <line id="Line_9-51" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(459 -0.5)">
+        <line id="Line_9-52" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(468 -0.5)">
+        <line id="Line_9-53" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(477 -0.5)">
+        <line id="Line_9-54" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(486 -0.5)">
+        <line id="Line_9-55" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(495 -0.5)">
+        <line id="Line_9-56" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(504 -0.5)">
+        <line id="Line_9-57" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(513 -0.5)">
+        <line id="Line_9-58" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(522 -0.5)">
+        <line id="Line_9-59" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(531 -0.5)">
+        <line id="Line_9-60" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(540 -0.5)">
+        <line id="Line_9-61" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(549 -0.5)">
+        <line id="Line_9-62" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(558 -0.5)">
+        <line id="Line_9-63" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(0 499.5)">
+        <line id="Line_9-64" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(9 499.5)">
+        <line id="Line_9-65" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(18 499.5)">
+        <line id="Line_9-66" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(27 499.5)">
+        <line id="Line_9-67" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(36 499.5)">
+        <line id="Line_9-68" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(45 499.5)">
+        <line id="Line_9-69" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(54 499.5)">
+        <line id="Line_9-70" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(63 499.5)">
+        <line id="Line_9-71" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(72 499.5)">
+        <line id="Line_9-72" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(81 499.5)">
+        <line id="Line_9-73" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(90 499.5)">
+        <line id="Line_9-74" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(99 499.5)">
+        <line id="Line_9-75" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(108 499.5)">
+        <line id="Line_9-76" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(117 499.5)">
+        <line id="Line_9-77" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(126 499.5)">
+        <line id="Line_9-78" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(135 499.5)">
+        <line id="Line_9-79" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(144 499.5)">
+        <line id="Line_9-80" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(153 499.5)">
+        <line id="Line_9-81" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(162 499.5)">
+        <line id="Line_9-82" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(171 499.5)">
+        <line id="Line_9-83" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(180 499.5)">
+        <line id="Line_9-84" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(189 499.5)">
+        <line id="Line_9-85" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(198 499.5)">
+        <line id="Line_9-86" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(207 499.5)">
+        <line id="Line_9-87" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(216 499.5)">
+        <line id="Line_9-88" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(225 499.5)">
+        <line id="Line_9-89" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(234 499.5)">
+        <line id="Line_9-90" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(243 499.5)">
+        <line id="Line_9-91" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(252 499.5)">
+        <line id="Line_9-92" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(261 499.5)">
+        <line id="Line_9-93" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(270 499.5)">
+        <line id="Line_9-94" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(279 499.5)">
+        <line id="Line_9-95" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(288 499.5)">
+        <line id="Line_9-96" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(297 499.5)">
+        <line id="Line_9-97" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(306 499.5)">
+        <line id="Line_9-98" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(315 499.5)">
+        <line id="Line_9-99" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(324 499.5)">
+        <line id="Line_9-100" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(333 499.5)">
+        <line id="Line_9-101" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(342 499.5)">
+        <line id="Line_9-102" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(351 499.5)">
+        <line id="Line_9-103" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(360 499.5)">
+        <line id="Line_9-104" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(369 499.5)">
+        <line id="Line_9-105" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(378 499.5)">
+        <line id="Line_9-106" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(387 499.5)">
+        <line id="Line_9-107" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(396 499.5)">
+        <line id="Line_9-108" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(405 499.5)">
+        <line id="Line_9-109" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(414 499.5)">
+        <line id="Line_9-110" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(423 499.5)">
+        <line id="Line_9-111" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(432 499.5)">
+        <line id="Line_9-112" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(441 499.5)">
+        <line id="Line_9-113" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(450 499.5)">
+        <line id="Line_9-114" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(459 499.5)">
+        <line id="Line_9-115" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(468 499.5)">
+        <line id="Line_9-116" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(477 499.5)">
+        <line id="Line_9-117" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(486 499.5)">
+        <line id="Line_9-118" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(495 499.5)">
+        <line id="Line_9-119" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(504 499.5)">
+        <line id="Line_9-120" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(513 499.5)">
+        <line id="Line_9-121" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(522 499.5)">
+        <line id="Line_9-122" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(531 499.5)">
+        <line id="Line_9-123" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(540 499.5)">
+        <line id="Line_9-124" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(549 499.5)">
+        <line id="Line_9-125" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(558 499.5)">
+        <line id="Line_9-126" data-name="Line 9" y2="500" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(0.5)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-0.5)">
+        <line id="Line_10" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 9)">
+        <line id="Line_10-2" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 18)">
+        <line id="Line_10-3" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 27)">
+        <line id="Line_10-4" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 36)">
+        <line id="Line_10-5" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 45)">
+        <line id="Line_10-6" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 54)">
+        <line id="Line_10-7" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 63)">
+        <line id="Line_10-8" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 72)">
+        <line id="Line_10-9" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 81)">
+        <line id="Line_10-10" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 90)">
+        <line id="Line_10-11" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 99)">
+        <line id="Line_10-12" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 108)">
+        <line id="Line_10-13" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 117)">
+        <line id="Line_10-14" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 126)">
+        <line id="Line_10-15" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 135)">
+        <line id="Line_10-16" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 144)">
+        <line id="Line_10-17" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 153)">
+        <line id="Line_10-18" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 162)">
+        <line id="Line_10-19" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 171)">
+        <line id="Line_10-20" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 180)">
+        <line id="Line_10-21" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 189)">
+        <line id="Line_10-22" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 198)">
+        <line id="Line_10-23" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 207)">
+        <line id="Line_10-24" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 216)">
+        <line id="Line_10-25" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 225)">
+        <line id="Line_10-26" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 234)">
+        <line id="Line_10-27" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 243)">
+        <line id="Line_10-28" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 252)">
+        <line id="Line_10-29" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 261)">
+        <line id="Line_10-30" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 270)">
+        <line id="Line_10-31" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 279)">
+        <line id="Line_10-32" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 288)">
+        <line id="Line_10-33" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 297)">
+        <line id="Line_10-34" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 306)">
+        <line id="Line_10-35" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 315)">
+        <line id="Line_10-36" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 324)">
+        <line id="Line_10-37" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 333)">
+        <line id="Line_10-38" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 342)">
+        <line id="Line_10-39" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 351)">
+        <line id="Line_10-40" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 360)">
+        <line id="Line_10-41" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 369)">
+        <line id="Line_10-42" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 378)">
+        <line id="Line_10-43" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 387)">
+        <line id="Line_10-44" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 396)">
+        <line id="Line_10-45" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 405)">
+        <line id="Line_10-46" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 414)">
+        <line id="Line_10-47" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 423)">
+        <line id="Line_10-48" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 432)">
+        <line id="Line_10-49" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 441)">
+        <line id="Line_10-50" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 450)">
+        <line id="Line_10-51" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 459)">
+        <line id="Line_10-52" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 468)">
+        <line id="Line_10-53" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 477)">
+        <line id="Line_10-54" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 486)">
+        <line id="Line_10-55" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 495)">
+        <line id="Line_10-56" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 504)">
+        <line id="Line_10-57" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 513)">
+        <line id="Line_10-58" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 522)">
+        <line id="Line_10-59" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 531)">
+        <line id="Line_10-60" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 540)">
+        <line id="Line_10-61" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 549)">
+        <line id="Line_10-62" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+      <g transform="translate(-0.5 558)">
+        <line id="Line_10-63" data-name="Line 10" x2="560" transform="translate(0.5 0.5)" fill="none" stroke="#beeb9f" stroke-width="1"/>
+      </g>
+    </g>
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="98" height="161.076" transform="translate(19 19)" fill="#79bd8f" opacity="0.25"/>
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="98" height="161.076" transform="translate(136 19)" fill="#79bd8f" opacity="0.25"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="98" height="161.076" transform="translate(253 19)" fill="#79bd8f" opacity="0.25"/>
+  </g>
+</svg>

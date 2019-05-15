@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328" height="80" viewBox="0 0 328 80">
+  <defs>
+    <clipPath id="clip-spacing">
+      <rect width="328" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="spacing" clip-path="url(#clip-spacing)">
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="8" height="8" transform="translate(0 40)" fill="#79bd8f"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" width="16" height="16" transform="translate(40 32)" fill="#79bd8f"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="24" height="24" transform="translate(88 24)" fill="#79bd8f"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="32" height="32" transform="translate(144 16)" fill="#79bd8f"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="40" height="40" transform="translate(208 8)" fill="#79bd8f"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="48" height="48" transform="translate(280)" fill="#79bd8f"/>
+    <text id="_1m" data-name="1m" transform="translate(0 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1m</tspan></text>
+    <text id="_2m" data-name="2m" transform="translate(40 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2m</tspan></text>
+    <text id="_3m" data-name="3m" transform="translate(88 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3m</tspan></text>
+    <text id="_4m" data-name="4m" transform="translate(144 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4m</tspan></text>
+    <text id="_5m" data-name="5m" transform="translate(208 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5m</tspan></text>
+    <text id="_6m" data-name="6m" transform="translate(280 73)" fill="#141414" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">6m</tspan></text>
+  </g>
+</svg>

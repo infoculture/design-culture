@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="128" viewBox="0 0 256 128">
+  <defs>
+    <clipPath id="clip-guide-write">
+      <rect width="256" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="guide-write" clip-path="url(#clip-guide-write)">
+    <path id="Path_23" data-name="Path 23" d="M0,0,104,20V128H0Z" transform="translate(24)" fill="#79bd8f"/>
+    <path id="Path_24" data-name="Path 24" d="M0,20,104,0V128H0Z" transform="translate(128)" fill="#00a388"/>
+    <path id="Path_25" data-name="Path 25" d="M0,0,12.24-22.5,24,0V64H0Z" transform="translate(64 64)" fill="#beeb9f"/>
+    <path id="Path_26" data-name="Path 26" d="M0,0,12.24-22.5,24,0Z" transform="translate(64 64)" fill="#00a388"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1100" height="424" viewBox="0 0 1100 424">
+  <defs>
+    <clipPath id="clip-ik-logo-hor">
+      <rect width="1100" height="424"/>
+    </clipPath>
+  </defs>
+  <g id="ik-logo-hor" clip-path="url(#clip-ik-logo-hor)">
+    <rect width="1100" height="424" fill="#fff"/>
+    <g id="ik-logo-hor-2" data-name="ik-logo-hor" transform="translate(112 112)">
+      <path id="Path_1" data-name="Path 1" d="M0,0V159.977L69.259,200V40.023Z" fill="#beeb9f"/>
+      <path id="Path_2" data-name="Path 2" d="M252.246,0l-34.63,19.983L148.3,59.949v79.989l69.316-39.966,34.63-19.983Z" transform="translate(-64.11)" fill="#beeb9f"/>
+      <path id="Path_3" data-name="Path 3" d="M252.246,165.606l-34.63-19.983L148.3,105.6v79.989l69.316,40.023,34.63,19.983Z" transform="translate(-64.11 -45.651)" fill="#00a388"/>
+      <path id="Path_4" data-name="Path 4" d="M148.3,105.7l69.316,39.966L148.3,185.689Z" transform="translate(-64.11 -45.694)" fill="#79bd8f"/>
+      <path id="Path_5" data-name="Path 5" d="M0,0,69.259,40.023,0,79.989Z" fill="#79bd8f"/>
+    </g>
+    <text id="Информационная_культура" data-name="Информационная
+культура" transform="translate(365 197)" fill="#111" font-size="64" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Информационная</tspan><tspan x="0" y="76">культура</tspan></text>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="112" height="112" transform="translate(0 162)" fill="#96dfff"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="112" height="112" transform="translate(494)" fill="#96dfff"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="112" height="112" transform="translate(494 312)" fill="#96dfff"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="112" height="112" transform="translate(988 162)" fill="#96dfff"/>
+    <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(112 112)" fill="none" stroke="#96dfff" stroke-width="2">
+      <rect width="876" height="200" stroke="none"/>
+      <rect x="1" y="1" width="874" height="198" fill="none"/>
+    </g>
+    <g id="Rectangle_33" data-name="Rectangle 33" fill="none" stroke="#96dfff" stroke-width="2">
+      <rect width="1100" height="424" stroke="none"/>
+      <rect x="1" y="1" width="1098" height="422" fill="none"/>
+    </g>
+  </g>
+</svg>

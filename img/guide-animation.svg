@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="128" viewBox="0 0 256 128">
+  <defs>
+    <clipPath id="clip-guide-animation">
+      <rect width="256" height="128"/>
+    </clipPath>
+  </defs>
+  <g id="guide-animation" clip-path="url(#clip-guide-animation)">
+    <path id="Path_20" data-name="Path 20" d="M1898,2693s32.542-70.627,128.042-50.421" transform="matrix(0.978, -0.208, 0.208, 0.978, -2304.412, -2119.815)" fill="none" stroke="#79bd8f" stroke-width="4" stroke-dasharray="8"/>
+    <path id="Path_21" data-name="Path 21" d="M64,0a64,64,0,0,1,64,64c.081.081-127.852.255-128,0A64,64,0,0,1,64,0Z" transform="translate(24 64.933)" fill="#79bd8f"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="40" cy="40" r="40" transform="translate(152)" fill="#00a388"/>
+  </g>
+</svg>

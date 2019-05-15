@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="828" height="622" viewBox="0 0 828 622">
+  <defs>
+    <clipPath id="clip-ik-logo-ver">
+      <rect width="828" height="622"/>
+    </clipPath>
+  </defs>
+  <g id="ik-logo-ver" clip-path="url(#clip-ik-logo-ver)">
+    <rect width="828" height="622" fill="#fff"/>
+    <g id="ik-logo-hor" transform="translate(326 112)">
+      <path id="Path_1" data-name="Path 1" d="M0,0V159.977L69.259,200V40.023Z" fill="#beeb9f"/>
+      <path id="Path_2" data-name="Path 2" d="M252.246,0l-34.63,19.983L148.3,59.949v79.989l69.316-39.966,34.63-19.983Z" transform="translate(-64.11)" fill="#beeb9f"/>
+      <path id="Path_3" data-name="Path 3" d="M252.246,165.606l-34.63-19.983L148.3,105.6v79.989l69.316,40.023,34.63,19.983Z" transform="translate(-64.11 -45.651)" fill="#00a388"/>
+      <path id="Path_4" data-name="Path 4" d="M148.3,105.7l69.316,39.966L148.3,185.689Z" transform="translate(-64.11 -45.694)" fill="#79bd8f"/>
+      <path id="Path_5" data-name="Path 5" d="M0,0,69.259,40.023,0,79.989Z" fill="#79bd8f"/>
+    </g>
+    <text id="Информационная_культура" data-name="Информационная
+культура" transform="translate(421 423)" fill="#111" font-size="60" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-294.57" y="0">Информационная</tspan><tspan x="-145.59" y="73">культура</tspan></text>
+  </g>
+</svg>

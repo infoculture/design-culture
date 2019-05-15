@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="226" viewBox="0 0 300 226">
+  <defs>
+    <clipPath id="clip-components">
+      <rect width="300" height="226"/>
+    </clipPath>
+  </defs>
+  <g id="components" clip-path="url(#clip-components)">
+    <g id="Group_342" data-name="Group 342" transform="translate(-27 -30)">
+      <path id="Union_1" data-name="Union 1" d="M75,94.286V0l75,37.714V94.286Zm-75,0V37.714L75,0V94.286Z" transform="translate(27 124)" fill="#beeb9f"/>
+      <path id="Path_399" data-name="Path 399" d="M0,0,75,37.714V94.286L0,56.571Z" transform="translate(27 161.714)" fill="#79bd8f"/>
+      <path id="Path_400" data-name="Path 400" d="M75,0,0,37.714V94.286L75,56.571Z" transform="translate(102 161.714)" fill="#00a388"/>
+      <g id="Group_338" data-name="Group 338" transform="translate(87 127.771)">
+        <path id="Path_403" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_341" data-name="Group 341" transform="translate(122.625 146.629)">
+        <path id="Path_403-2" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-2" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_339" data-name="Group 339" transform="translate(51.375 146.754)">
+        <path id="Path_403-3" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-3" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_340" data-name="Group 340" transform="translate(87 163.6)">
+        <path id="Path_403-4" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-4" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+    </g>
+    <g id="Group_343" data-name="Group 343" transform="translate(123 -30)">
+      <path id="Union_1-2" data-name="Union 1" d="M75,94.286V0l75,37.714V94.286Zm-75,0V37.714L75,0V94.286Z" transform="translate(27 124)" fill="#beeb9f"/>
+      <path id="Path_399-2" data-name="Path 399" d="M0,0,75,37.714V94.286L0,56.571Z" transform="translate(27 161.714)" fill="#79bd8f"/>
+      <path id="Path_400-2" data-name="Path 400" d="M75,0,0,37.714V94.286L75,56.571Z" transform="translate(102 161.714)" fill="#00a388"/>
+      <g id="Group_338-2" data-name="Group 338" transform="translate(87 127.771)">
+        <path id="Path_403-5" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-5" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_341-2" data-name="Group 341" transform="translate(122.625 146.629)">
+        <path id="Path_403-6" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-6" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_339-2" data-name="Group 339" transform="translate(51.375 146.754)">
+        <path id="Path_403-7" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-7" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_340-2" data-name="Group 340" transform="translate(87 163.6)">
+        <path id="Path_403-8" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-8" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+    </g>
+    <g id="Group_344" data-name="Group 344" transform="translate(48 -124)">
+      <path id="Union_1-3" data-name="Union 1" d="M75,94.286V0l75,37.714V94.286Zm-75,0V37.714L75,0V94.286Z" transform="translate(27 124)" fill="#beeb9f"/>
+      <path id="Path_399-3" data-name="Path 399" d="M0,0,75,37.714V94.286L0,56.571Z" transform="translate(27 161.714)" fill="#79bd8f"/>
+      <path id="Path_400-3" data-name="Path 400" d="M75,0,0,37.714V94.286L75,56.571Z" transform="translate(102 161.714)" fill="#00a388"/>
+      <g id="Group_338-3" data-name="Group 338" transform="translate(87 127.771)">
+        <path id="Path_403-9" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-9" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_341-3" data-name="Group 341" transform="translate(122.625 146.629)">
+        <path id="Path_403-10" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-10" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_339-3" data-name="Group 339" transform="translate(51.375 146.754)">
+        <path id="Path_403-11" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-11" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+      <g id="Group_340-3" data-name="Group 340" transform="translate(87 163.6)">
+        <path id="Path_403-12" data-name="Path 403" d="M30,0V7.5c0,4.142-6.716,7.5-15,7.5S0,11.642,0,7.5V0Z" transform="translate(0 7.5)" fill="#00a388"/>
+        <ellipse id="Ellipse_26-12" data-name="Ellipse 26" cx="15" cy="7.5" rx="15" ry="7.5" fill="#beeb9f"/>
+      </g>
+    </g>
+  </g>
+</svg>

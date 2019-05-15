@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="309" viewBox="0 0 552 309">
+  <defs>
+    <clipPath id="clip-format">
+      <rect width="552" height="309"/>
+    </clipPath>
+  </defs>
+  <g id="format" clip-path="url(#clip-format)">
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="120" height="120" transform="translate(0 32)" fill="#beeb9f"/>
+    <rect id="Rectangle_83" data-name="Rectangle 83" width="120" height="169.716" transform="translate(432 32)" fill="#beeb9f"/>
+    <rect id="Rectangle_84" data-name="Rectangle 84" width="85" height="119.716" transform="translate(432 309) rotate(-90)" fill="#beeb9f"/>
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="120" height="67.5" transform="translate(288 32)" fill="#beeb9f"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="120" height="90" transform="translate(144 32)" fill="#beeb9f"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="120" height="160" transform="translate(144 144)" fill="#beeb9f"/>
+    <text id="Аватарки_иконки" data-name="Аватарки, иконки" transform="translate(0 15)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Аватарки, иконки</tspan></text>
+    <text id="Печать" transform="translate(432 15)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Печать</tspan></text>
+    <text id="_1:1" data-name="1:1" transform="translate(8 83)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="42.936" y="15">1:1</tspan></text>
+    <text id="_16:9" data-name="16:9" transform="translate(296 56)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="39.162" y="15">16:9</tspan></text>
+    <text id="_1:1_4142" data-name="1:1,4142" transform="translate(440 107)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="26.324" y="15">1:1,4142</tspan></text>
+    <text id="_1_4142:1" data-name="1,4142:1" transform="translate(440 256)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="26.324" y="15">1,4142:1</tspan></text>
+    <text id="_4:3" data-name="4:3" transform="translate(152 68)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="42.936" y="15">4:3</tspan></text>
+    <text id="_3:4" data-name="3:4" transform="translate(152 215)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="42.936" y="15">3:4</tspan></text>
+    <text id="Фото" transform="translate(144 15)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Фото</tspan></text>
+    <text id="Видео_соцсети" data-name="Видео, соцсети" transform="translate(288 15)" fill="#141414" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Видео, соцсети</tspan></text>
+  </g>
+</svg>
