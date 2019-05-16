@@ -17,8 +17,8 @@ title: Дизайн-культура
 description: Гайды и&nbsp;рекомендации для&nbsp;дизайна продуктов АНО&nbsp;«Инфокультура»
 email: infoculture@infoculture.com
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://datacoon.github.io/Design-Culture/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Design-Culture" # the subpath of your site, e.g. /blog
+url: "https://datacoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 host: 0.0.0.0
 
 author: Павел Медников
