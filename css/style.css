@@ -7,7 +7,7 @@ body{
 	-webkit-font-smoothing: antialiased;
 }
 .home{
-	background-image: url(../img/bg.svg);
+	background-image: url(img/bg.svg);
 	background-position: 100% 0;
 	background-repeat: no-repeat;
 	background-size: 50%;
@@ -47,31 +47,31 @@ body{
 	box-shadow: 0 24px 16px -16px rgba(0, 163, 136, .75);
 }
 .guide-logo{
-	background-image: url(../img/guide-logo.svg);
+	background-image: url(img/guide-logo.svg);
 }
 .guide-color{
-	background-image: url(../img/guide-color.svg);
+	background-image: url(img/guide-color.svg);
 }
 .guide-typo{
-	background-image: url(../img/guide-typo.svg);
+	background-image: url(img/guide-typo.svg);
 }
 .guide-grid{
-	background-image: url(../img/guide-grid.svg);
+	background-image: url(img/guide-grid.svg);
 }
 .guide-animation{
-	background-image: url(../img/guide-animation.svg);
+	background-image: url(img/guide-animation.svg);
 }
 .guide-icon{
-	background-image: url(../img/guide-icon.svg);
+	background-image: url(img/guide-icon.svg);
 }
 .guide-write{
-	background-image: url(../img/guide-write.svg);
+	background-image: url(img/guide-write.svg);
 }
 .guide-patterns{
-	background-image: url(../img/guide-patterns.svg);
+	background-image: url(img/guide-patterns.svg);
 }
 .guide-pictures{
-	background-image: url(../img/guide-pictures.svg);
+	background-image: url(img/guide-pictures.svg);
 }
 .inactive{
 	opacity: .5;
