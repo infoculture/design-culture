@@ -9,10 +9,10 @@ anchor: versions
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="/img/logo/ik-logo-ver.svg" alt="Вертикальная версия логотипа">
+		<img src="img/logo/ik-logo-ver.svg" alt="Вертикальная версия логотипа">
 	</div>
 	<div class="col-md-3 p-5">
-		<img src="/img/logo/ik-logo.svg" alt="Знак логотипа">
+		<img src="img/logo/ik-logo.svg" alt="Знак логотипа">
 	</div>
 </div>
  

@@ -13,22 +13,22 @@ anchor: usage
 
 <div class="row">
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor.png" alt="Контрастный светлый фон">
+		<img class="mb-2" src="img/logo/ik-logo-hor.png" alt="Контрастный светлый фон">
 		<p>Контрастный светлый фон</p>
 	</div>
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-white.png" alt="Контрастный тёмный фон">
+		<img class="mb-2" src="img/logo/ik-logo-hor-white.png" alt="Контрастный тёмный фон">
 		<p>Контрастный тёмный фон</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bg.png" alt="Иллюстрированный фон">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bg.png" alt="Иллюстрированный фон">
 		<p>Иллюстрированный фон</p>
 	</div>
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bg-wood.png" alt="Иллюстрированный неконтрастный фон">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bg-wood.png" alt="Иллюстрированный неконтрастный фон">
 		<p>Иллюстрированный неконтрастный фон</p>
 	</div>
 </div>
@@ -37,33 +37,33 @@ anchor: usage
  
 <div class="row">
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-sizing.png" alt="Не учтено охранное поле">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-sizing.png" alt="Не учтено охранное поле">
 		<p>Не учтено охранное поле</p>
 	</div>
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-style.png" alt="Лишний стиль">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-style.png" alt="Лишний стиль">
 		<p>Лишний стиль</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-contrast.png" alt="Слабый контраст">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-contrast.png" alt="Слабый контраст">
 		<p>Слабый контраст</p>
 	</div>
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-image.png" alt="Слабый контраст">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-image.png" alt="Слабый контраст">
 		<p>Слабый контраст</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-color.png" alt="Изменён брендовый цвет">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-color.png" alt="Изменён брендовый цвет">
 		<p>Изменён брендовый цвет</p>
 	</div>
 	<div class="col-md-6">
-		<img class="mb-2" src="/img/logo/ik-logo-hor-bad-position.png" alt="Изменён оригинальный логотип">
+		<img class="mb-2" src="img/logo/ik-logo-hor-bad-position.png" alt="Изменён оригинальный логотип">
 		<p>Изменён оригинальный логотип</p>
 	</div>
 </div>
