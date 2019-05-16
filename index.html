@@ -51,7 +51,7 @@ home_bg: true
           	{% assign collections = site.collections | sort: 'position'%}
           	{% for collection in collections %}
           	{% if collection.label != 'posts' and collection.label != 'resources'  %}
-          	<a href="{{site.baseurl}}/{{collection.label}}" class="cell guide guide-{{collection.label}}{% if collection.disabled %} inactive{% endif %}"><h4>{{collection.title}}</h4></a>
+          	<a href="{{site.url}}/{{collection.label}}" class="cell guide guide-{{collection.label}}{% if collection.disabled %} inactive{% endif %}"><h4>{{collection.title}}</h4></a>
           	{% endif %}
           	{% endfor %}
           </div>
@@ -71,7 +71,7 @@ home_bg: true
         <h4 class="light">Библиотека стилей и&nbsp;Vue-компонентов с&nbsp;помощью которых можно быстро собрать интерфейс для&nbsp;наших сервисов</h4>
       </div>
       <div class="col-md-3 offset-md-2 text-center">
-        <img src="{{site.baseurl}}/img/components.svg" alt="components">
+        <img src="{{site.url}}/img/components.svg" alt="components">
       </div>
     </div>
   </div>
@@ -83,12 +83,12 @@ home_bg: true
     <div class="row py-5">
       <div class="col-md-6">
         <!-- <h3 class="mb-4">Ресурсы <small class="text-muted">Скоро</small></h3> -->
-        <h3 class="mb-4"><a href="{{site.baseurl}}/resources">Ресурсы</a></h3>
+        <h3 class="mb-4"><a href="{{site.url}}/resources">Ресурсы</a></h3>
         <h4 class="light">Готовые шаблоны макетов и&nbsp;медиафайлы для&nbsp;наших проектов</h4>
-        <!-- <p>{{site.baseurl}}</p> -->
+        <!-- <p>{{site.url}}</p> -->
       </div>
       <div class="col-md-3 offset-md-2 text-center">
-        <img src="{{site.baseurl}}/img/resources.svg" alt="resources">
+        <img src="{{site.url}}/img/resources.svg" alt="resources">
       </div>
     </div>
   </div>
