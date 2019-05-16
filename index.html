@@ -51,7 +51,7 @@ home_bg: true
           	{% assign collections = site.collections | sort: 'position'%}
           	{% for collection in collections %}
           	{% if collection.label != 'posts' and collection.label != 'resources'  %}
-          	<a href="{{site.url}}/{{collection.label}}" class="cell guide guide-{{collection.label}}{% if collection.disabled %} inactive{% endif %}"><h4>{{collection.title}}</h4></a>
+          	<a href="{{site.url}}/{{collection.url}}" class="cell guide guide-{{collection.label}}{% if collection.disabled %} inactive{% endif %}"><h4>{{collection.title}}</h4></a>
           	{% endif %}
           	{% endfor %}
           </div>
