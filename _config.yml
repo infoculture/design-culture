@@ -52,7 +52,6 @@ collections:
   animation:
     title: Анимация
     position: 5
-    disabled: true
   icon:
     title: Иконки
     position: 6

@@ -4,15 +4,15 @@
 <!--       <div class="col text-center">
         © {% if site.author %}{% if site.author_url %}<a href="{{site.author_url}}">{{site.author}}</a>,{% else %}{{site.author}},{% endif %}{% endif %} {{site.time|date:'%Y'}}
       </div> -->
-      <div class="col">
+      <div class="col-12 col-md mb-2">
       	© {{site.time|date:'%Y'}} {% if site.company %}{% if site.company_url %}<a href="{{site.company_url}}" target="_blank">{{site.company}}</a>{% else %}{{site.company}}{% endif %}{% endif %}
       </div>
-      <div class="col nowrap text-center">
+      <div class="col-12 col-md nowrap text-md-right mb-2">
       	{% if site.company_mail %}{{site.company_mail}}{% endif %}
-      </div>
+      </div><!-- 
       <div class="col nowrap text-right">
       	{% if site.company_phone %}{{site.company_phone}}{% endif %}
-      </div>
+      </div> -->
     </div>
   </div>
 </footer>

@@ -150,6 +150,36 @@ p,ul{
 	color: #FF5A50;
 }
 
+.card-example{
+	background-color: #BEEB9F;
+}
+.anim-015,
+.anim-025,
+.anim-05,
+.anim-1{
+	transition: all .15s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+	cursor: pointer;
+}
+.anim-015{
+	transition-duration: .15s;
+}
+.anim-025{
+	transition-duration: .25s;
+}
+.anim-05{
+	transition-duration: .5s;
+}
+.anim-1{
+	transition-duration: 1s;
+}
+
+.card-example.anim-015:hover,
+.card-example.anim-025:hover,
+.card-example.anim-05:hover,
+.card-example.anim-1:hover{
+	background-color: #79bd8f;
+}
+
 
 
 
