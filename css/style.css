@@ -37,14 +37,16 @@ body{
 }
 .guide{
 	background-repeat: no-repeat;
-	background-position: 50% 101%;
-	background-size: contain;
+	background-position: 50% 110%;
+	background-size: 100%;
 	box-shadow: 0 16px 16px -16px rgba(0, 163, 136, .5);
 	transition: box-shadow .25s ease,
-				color .25s ease;
+				color .25s ease,
+				background-position .25s ease;
 }
 .guide:hover{
 	box-shadow: 0 24px 16px -16px rgba(0, 163, 136, .75);
+	background-position: 50% 101%;
 }
 .guide-logo{
 	/*background-image: url(img/guide-logo.svg);*/
