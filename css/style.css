@@ -10,7 +10,7 @@ body{
 	/*background-image: url(img/bg.svg);*/
 	background-position: 100% 0;
 	background-repeat: no-repeat;
-	background-size: 50%;
+	background-size: 30%;
 }
 .brand{
 	background-color: #BEEB9F;
@@ -25,9 +25,9 @@ body{
 	width: 100%;
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
-  /*grid-template-rows: repeat(auto-fill, minmax(15rem, 1fr));*/
-  grid-auto-rows: 15rem;
-  grid-gap: 1.5rem;
+	/*grid-template-rows: repeat(auto-fill, minmax(15rem, 1fr));*/
+	grid-auto-rows: 15rem;
+	grid-gap: 1.5rem;
 }
 .cell{
 	display: block;
@@ -263,8 +263,49 @@ img.logo{width: 48px;}
 
 
 
-@media (min-width: 1200px) {
+@media (max-width: 1400px) {
 	.home{
 		background-size: 40%;
+	}
+}
+
+
+
+
+
+@media (max-width: 1200px) {
+	.home{
+		background-size: 50%;
+	}
+}
+
+
+
+
+
+@media (max-width: 992px) {
+	.grid{
+		grid-template-columns: repeat(auto-fill, minmax(33%, 1fr));
+	}
+}
+
+
+
+
+
+@media (max-width: 768px) {
+	.home{
+		background-position: 100% -100px;
+	}
+}
+
+
+
+
+
+@media (max-width: 420px) {
+	.grid{
+		grid-template-columns: repeat(auto-fill, minmax(50%, 1fr));
+		/*grid-template-rows: repeat(auto-fill, minmax(20rem, 1fr));*/
 	}
 }

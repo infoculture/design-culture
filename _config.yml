@@ -19,6 +19,7 @@ email: infoculture@infoculture.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://infoculture.github.io/design-culture" # the base hostname & protocol for your site, e.g. http://example.com
+# url: ""
 host: 0.0.0.0
 
 author: Павел Медников
@@ -52,6 +53,7 @@ collections:
   animation:
     title: Анимация
     position: 5
+    new: true
   icon:
     title: Иконки
     position: 6
